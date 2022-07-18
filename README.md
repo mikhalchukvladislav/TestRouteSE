@@ -1,7 +1,7 @@
 # Test_Route_SE
 It is the script in python, that can process the KML datafile, passed to the script as a parameter, read the coordinates and filter out the incorrect data points.
 
-<p>In the terminal, go to the folder where you want to save files from Github. Next, enter the command<br />"<em><strong>git clone https://github.com/mikhalchukvladislav/Test_Route_SE.git</strong> </em>"</p>
+<p>In the terminal, go to the folder where you want to save files from Github. Next, enter 2 commands: <br />"<em><strong>git clone https://github.com/mikhalchukvladislav/Test_Route_SE.git</strong></em>",<br />"<em><strong>cd Test_Route_SE</strong> </em>"</p>
 <p>Enter the command in the terminal:"<em><strong>pip install -r requirements.txt</strong> </em>". You will install the necessary libraries for the project.</p>
 <p>To run the script, you need to run it using the command "<em><strong>python main.py</strong></em> ".</p>
 <p>After launching, the terminal will ask you to insert the path to the file with coordinates. <em><strong>Example of a path: C:/Users/Vladislav/Desktop/PYTHON/Test_Route_SE/Test_Route_SE/task_2_sensor.kml</strong></em> (note that you need to use the right slash '/' in the path).</p>
